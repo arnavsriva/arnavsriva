@@ -1,16 +1,23 @@
-### Hi there This is Arnav👋
+### Hi there, I'm Arnav 👋 
 
-<!--
-**arnavsriva/arnavsriva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Website](https://img.shields.io/website?label=arnavsriva.com&style=for-the-badge&url=https%3A%2F%2Farnavsriva.com)](https://arnavsriva.com)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm a Student, Data Analyst, Developer, and Learner!!
+
+- Trying to get better at coding
+- 🌱 I’m currently learning everything 
+- 🥅 2022 Goals: Contribute more to Open Source projects
+
+
+### Connect with me:
+
+[<img align="left" alt="arnavsriva.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="arnavsriva | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="arnavsriva | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+</details>
+
+[website]: https://arnavsriva.com
+[twitter]: https://twitter.com/arnavsriva
+[linkedin]: https://linkedin.com/in/arnavsriva
