@@ -1,11 +1,11 @@
 ### Hi there, I'm Arnav 👋 
 
-[![Website](https://img.shields.io/website?label=arnavsriva.com&style=for-the-badge&url=https%3A%2F%2Farnavsriva.com)](https://arnavsriva.com)
+
 
 
 ## I'm a Student, Data Analyst, Developer, and Learner!!
 
-- Trying to get better at coding
+- Trying to get better everyday
 
 
 
