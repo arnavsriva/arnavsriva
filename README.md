@@ -6,8 +6,7 @@
 ## I'm a Student, Data Analyst, Developer, and Learner!!
 
 - Trying to get better at coding
-- 🌱 I’m currently learning everything 
-- 🥅 2022 Goals: Contribute more to Open Source projects
+
 
 
 ### Connect with me:
