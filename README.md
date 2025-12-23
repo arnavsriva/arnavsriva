@@ -1,22 +1,52 @@
-### Hi there, I'm Arnav 👋 
+# Hi there, I'm Arnav 👋
 
+## Quantitative Developer | Software Engineer | Competitive Programmer
 
+Passionate about building high-performance systems for quantitative finance, algorithmic trading, and data-intensive applications. Currently focused on:
 
+- **Quantitative Finance**: Building trading systems, market analysis tools, and algorithmic strategies
+- **High-Performance Computing**: Optimizing critical path code in C++ and Python
+- **Competitive Programming**: Problem-solving and algorithmic excellence (Codeforces, LeetCode)
+- **Data Technologies**: OLTP systems, OLAP for analytics, data pipeline optimization
 
-## I'm a Student, Data Analyst, Developer, and Learner!!
+## 🛠️ Technical Skills
 
-- Trying to get better everyday
+**Languages**: Python, C++, SQL, JavaScript  
+**Specialties**: Quantitative Analysis, Systems Design, Financial Algorithms, Data Engineering  
+**Tools & Frameworks**: PyTorch, Pandas, NumPy, Git, Linux, Docker  
+**Domains**: Quantitative Trading, Market Microstructure, Risk Management, Time Series Analysis  
 
+## 💼 Experience
 
+- **IMC Trading** - Software Engineering internship focused on quantitative systems
+- **Jump Trading** - Experience building trading infrastructure
+- **Quantbase** - Data and analytics work
+- **Competitive Programming** - Codeforces contributor with strong algorithmic background
 
-### Connect with me:
+## 📚 Notable Projects
 
-[<img align="left" alt="arnavsriva.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="arnavsriva | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="arnavsriva | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- **Stock Market Analysis** - Comprehensive financial data analysis and statistical modeling
+- **Algorithmic Trading Systems** - Market microstructure and execution algorithms
+- **High-Performance Data Processing** - Optimized solutions for large-scale financial data
+- **Competitive Programming Solutions** - Advanced algorithm implementations
+
+## 🎯 What I'm Looking For
+
+Seeking challenging quantitative developer / quant software engineer roles where I can:
+- Build and optimize trading systems and financial infrastructure
+- Apply algorithmic expertise to solve complex market problems
+- Work with high-frequency or algorithmic trading strategies
+- Design scalable systems for real-time data processing
+
+## 🔗 Connect with me:
+
+<details>
+<summary>Social Links</summary>
+
+[Website](https://arnavsriva.com) | [Twitter](https://twitter.com/arnavsriva) | [LinkedIn](https://linkedin.com/in/arnavsriva)
 
 </details>
 
-[website]: https://arnavsriva.com
-[twitter]: https://twitter.com/arnavsriva
-[linkedin]: https://linkedin.com/in/arnavsriva
+---
+
+*Trying to get better every day* 📈
