@@ -2,7 +2,7 @@
 
 ## Quantitative Developer | Software Engineer | Competitive Programmer
 
-Currently pursuing a **Master of Science in Financial Engineering at NYU Tandon** (started Jan 2025). Passionate about building high-performance systems for quantitative finance, algorithmic trading, and data-intensive applications.
+Currently pursuing a **Master of Science in Financial Engineering at NYU Tandon** (started Aug 2025). Passionate about building high-performance systems for quantitative finance, algorithmic trading, and data-intensive applications.
 
 ### 📍 Status & Availability
 - **Actively Seeking 2026 Internships** in Quantitative Finance, Trading Systems, or Data Engineering
