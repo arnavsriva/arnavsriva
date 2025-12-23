@@ -1,6 +1,6 @@
 # Hi there, I'm Arnav 👋
 
-## Quantitative Developer | Software Engineer | Competitive Programmer
+## Quantitative Developer | Software Engineer | AI/ML Engineer
 
 Currently pursuing a **Master of Science in Financial Engineering at NYU Tandon** (started Aug 2025). Passionate about building high-performance systems for quantitative finance, algorithmic trading, and data-intensive applications.
 
