@@ -26,7 +26,7 @@ Currently pursuing a **Master of Science in Financial Engineering at NYU Tandon*
 
 ## 💼 Professional Experience
 
-### Accenture - Data Engineering, Management & Governance Analyst (Oct 2022 - Jun 2025)
+### Accenture - Machine Learning Engineer (Oct 2022 - Jun 2025)
 - **Built and optimized ETL pipelines** using SQL, Python, and SSIS, ensuring high-throughput and low-latency data feeds
 - **Designed scalable data architectures** on AWS and Azure, collaborating with engineering teams to integrate real-time financial data
 - **Applied ML models** in Python for anomaly detection and predictive analytics
