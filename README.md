@@ -1,73 +1,65 @@
 # Hi there, I'm Arnav 👋
 
-## Quantitative Developer | Software Engineer | AI/ML Engineer
+## Machine Learning Engineer | Quantitative Researcher | AI Systems
 
-Currently pursuing a **Master of Science in Financial Engineering at NYU Tandon** (started Aug 2025). Passionate about building high-performance systems for quantitative finance, algorithmic trading, and data-intensive applications.
+Machine Learning Engineer with 2+ years building anomaly detection models, high-throughput data pipelines, and model-serving infrastructure in production financial services. Currently completing a **Master of Science in Financial Engineering at NYU Tandon** (expected May 2027), working on agentic AI, RAG systems, LLM inference, and quantitative modeling.
 
 ### 📍 Status & Availability
-- **Actively Seeking 2026 Internships** in Quantitative Finance, Trading Systems, or Data Engineering
-- **Available for Full-Time Roles Starting 2027**
+- **Open to Full-Time Roles Starting 2027** — Machine Learning Engineer, Quantitative Researcher, AI Research Engineer
 - **Location**: Brooklyn, NY
 
 ## Currently Focused On:
 
-- **Quantitative Finance**: Pricing derivatives, risk modeling, algorithmic strategies
-- **High-Performance Computing**: Optimizing critical path code in C++ and Python
-- **Data Engineering**: Building ETL pipelines, real-time data processing (AWS, Azure, SQL, Python)
-- **Competitive Programming**: Problem-solving and algorithmic excellence (Codeforces, LeetCode)
+- **Agentic AI & RAG**: Production retrieval systems, LLM evaluation, hallucination gating
+- **ML Systems**: Training/inference pipelines, GPU optimization (CUDA/Triton), distributed training
+- **Quantitative Finance**: Stochastic processes, Monte Carlo methods, derivatives pricing, risk modeling
+- **AI Safety**: Uncertainty quantification and self-correction in LLMs
 
 ## 🛠️ Technical Skills
 
-**Languages**: Python, C++, SQL, JavaScript  
-**Cloud & Data**: AWS, Azure, SQL Server (SSMS), SSIS, ETL Pipelines  
-**Specialties**: Quantitative Analysis, Machine Learning, Deep Learning, NLP, Data Engineering  
-**Tools & Frameworks**: PyTorch, Pandas, NumPy, Git, Linux, Docker, Azure DevOps  
-**Domains**: Quantitative Finance, Financial Algorithms, Time Series Analysis, Options Pricing  
+**Languages**: Python, C++, SQL, Rust  
+**Mathematics & Statistics**: Stochastic Processes, Time-Series Analysis, Statistical Inference, Monte Carlo Simulation, Variance Reduction, Optimization (cvxpy, scipy)  
+**ML / DL**: PyTorch, TensorFlow, JAX, NumPy, Pandas, scikit-learn, LLMs, Agentic AI, RAG, LangChain, LangGraph, LlamaIndex, Gemini, Vector Search  
+**ML Systems**: Training & Inference Pipelines, GPU Optimization (CUDA/Triton), Distributed Training, LLM Evaluation, Kubeflow, MLOps, CI/CD  
+**Cloud & Infrastructure**: GCP (Vertex AI, GKE, Vector Search, Cloud SQL/pgvector), AWS, Azure, Terraform, Kubernetes, Docker, Linux, FastAPI, Git, GitHub Actions  
 
 ## 💼 Professional Experience
 
 ### Accenture - Machine Learning Engineer (Oct 2022 - Jun 2025)
-- **Built and optimized ETL pipelines** using SQL, Python, and SSIS, ensuring high-throughput and low-latency data feeds
-- **Designed scalable data architectures** on AWS and Azure, collaborating with engineering teams to integrate real-time financial data
-- **Applied ML models** in Python for anomaly detection and predictive analytics
-- **Enhanced query performance** through SQL optimization (indexing, partitioning) and mentored junior engineers
-- **Deployed CI/CD pipelines** with Azure DevOps and GitHub Actions, reducing deployment time by 40%
-- **Awards**: Client Value Creation Award, Bright Beginners Award
+- **Developed transaction monitoring anomaly detection models** in PyTorch on multi-terabyte datasets; improved F1-score by 15% via feature engineering and hyperparameter tuning, cutting false-positive alerts while preserving regulatory detection sensitivity
+- **Built high-throughput ML/data pipelines** in Python and SQL integrating Redshift and internal APIs; reduced query latency by 30% through query optimization, partitioning, and index design
+- **Designed scalable Docker-based model serving infrastructure** with CI/CD automation (GitHub Actions / Azure DevOps), reducing deployment cycle time by 40%
+- **Collaborated with quantitative analysts** to translate signal research into production-ready pipelines
+- **Awards**: Client Value Creation Award, Bright Beginner's Award
 
-## 🎓 Academic Projects
+## 🚀 Projects
 
-- **Real-Time Order Book for High-Frequency Trading** - C++ implementation with buy/sell order matching (price-time priority) and advanced order types (GTC, FIK)
-- **Pricing Asian and Lookback Options Using Euler-Maruyama Simulation** - Monte Carlo simulation with 50K runs for accurate options pricing
-- **Stock Market Analysis** - Comprehensive financial data analysis and statistical modeling
-- **Algorithmic Trading Systems** - Market microstructure and execution algorithm development
+- **[Enterprise RAG Platform on GCP](https://github.com/arnavsriva/enterprise-rag-gcp)** (Vertex AI, GKE, Vector Search, Terraform, Kubeflow) — Client-style document Q&A system provisioned end to end in Terraform; async ingestion pipeline processed 20 SEC 10-K filings into 4,340 chunks / 2.9M embedding tokens in under 50 s; benchmarked Vertex AI Vector Search vs. pgvector on recall@k, p95 latency, and cost, with a Kubeflow eval gate on retrieval quality and hallucination rate
+- **[Monte Carlo Pricing: Asian & Lookback Options](https://github.com/arnavsriva/Pricing-Asian-and-Lookback-Options-Using-Euler-Maruyama-Simulation)** (Python) — Vectorized Monte Carlo engines using Euler-Maruyama discretization under risk-neutral GBM (50K+ paths/run) with antithetic and control-variate variance reduction
+- **[Text-to-SVG Generation via QLoRA Fine-Tuning](https://github.com/arnavsriva/Text-to-SVG-Generation-via-QLoRA-Fine-Tuning)** (PyTorch) — Fine-tuned Qwen 2.5-3B via QLoRA with a constrained decoding pipeline to generate valid SVGs from natural-language prompts (NYU Tandon DL Kaggle competition, 50K training pairs)
 
-## 📚 Education
+## 📄 Publications
+
+- *"When Uncertainty Isn't Enough: An Empirical Study of Self-Correction in Code Generation"* — ICML 2026 Workshop (AgenticUQ & EIML@ICML 2026)
+
+## 🎓 Education & Certifications
 
 - **Master of Science in Financial Engineering** - NYU Tandon School of Engineering (Expected May 2027)
-  - Relevant Coursework: ML in Finance, Financial Computing, Quantitative Methods in Finance, Bloomberg Certification
-  - GPA: Pending (Current)
-  
+  - Coursework: ML in Finance, Financial Computing, Quantitative Methods, Deep Learning, Algorithmic Trading & HFT, Valuation for Financial Engineers, Financial Risk Management, Blockchain & Crypto, Information Geometry in ML
 - **Bachelor of Technology in Computer Science** - Jain University (Jul 2022)
-  - GPA: 8.61/10.0
-  - Relevant Coursework: Calculus, Linear Algebra, Probability & Statistics, Machine Learning, Deep Learning, NLP
+- **CQF** (Certificate in Quantitative Finance)
+- **Blue Dot Impact** - Technical AI Safety
 
 ## 🎯 What I'm Looking For
 
-**For Summer 2026 Internships**:
-- Quantitative Trading / Trading Systems internships
-- Quantitative Research roles
-- Algorithmic/HFT trading platforms
-- Quantitative Finance data engineering roles
-
-**For 2027 Full-Time Roles**:
-- Quantitative Developer / Quant Software Engineer positions
-- Building and optimizing trading systems and financial infrastructure
-- Real-time data processing and market microstructure systems
-- High-frequency or algorithmic trading strategies
+**2027 Full-Time Roles**:
+- Machine Learning Engineer / AI Research Engineer at frontier AI labs
+- Quantitative Researcher / Quantitative Developer at trading firms
+- Production LLM, inference, and agentic systems work with measurable impact
 
 ## 🔗 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnavsriva) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/arnavsriva) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnav.sriva@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arnavsriva) [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/arnavsriva) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arnavsriva9@gmail.com)
 
 ---
 
